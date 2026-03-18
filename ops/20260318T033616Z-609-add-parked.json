@@ -1,0 +1,6 @@
+{
+  "op": "add",
+  "skill": "parked",
+  "description": "Check if a domain name is registered or available. Uses tiered lookups (DNS, WHOIS, RDAP) for fast, reliable results. Use when a user wants to check domain availability, find unregistered domains, or verify registration status.",
+  "ts": "2026-03-18T03:36:16Z"
+}

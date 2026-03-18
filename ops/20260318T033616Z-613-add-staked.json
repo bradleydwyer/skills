@@ -1,0 +1,6 @@
+{
+  "op": "add",
+  "skill": "staked",
+  "description": "Check package name availability across registries (npm, PyPI, crates.io, RubyGems, NuGet, Hex, pub.dev, Homebrew, Docker Hub, CocoaPods, and 19 more). Use when a user wants to find an available name for a library, tool, or package, or is researching whether a name is taken.",
+  "ts": "2026-03-18T03:36:16Z"
+}
