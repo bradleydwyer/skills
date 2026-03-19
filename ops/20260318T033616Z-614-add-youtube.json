@@ -1,7 +1,0 @@
-{
-  "op": "add",
-  "skill": "youtube",
-  "source": "adopted",
-  "description": "Fetch data from YouTube using the YouTube Data API v3. Use this skill whenever the user wants to search YouTube videos, get video details (title, description, view counts, likes, tags), list a channel's uploads, read comments on a video, browse playlist contents, or get video transcripts and captions. Also trigger when the user pastes a YouTube URL and wants info about it, or when they're doing any kind of YouTube research, content analysis, or data gathering — even if they don't explicitly say 'YouTube API'.",
-  "ts": "2026-03-18T03:36:16Z"
-}

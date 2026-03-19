@@ -1,7 +1,0 @@
-{
-  "op": "add",
-  "skill": "gemini",
-  "source": "adopted",
-  "description": "Run Google's Gemini CLI as a secondary AI agent from within Claude Code. Use this skill whenever the user wants to delegate a task to Gemini, get Gemini's perspective or a second opinion, use Gemini-specific capabilities (like its native Google Search), or manage the Gemini CLI (extensions, MCP servers, sessions). Trigger on phrases like \"ask Gemini\", \"use Gemini\", \"have Gemini do\", \"second opinion\", \"what does Gemini think\", or any reference to the Gemini CLI tool. Also trigger when the user wants to run a task in a sandboxed Gemini environment. Note: the Gemini CLI is a software engineering agent — it does not support image generation natively.",
-  "ts": "2026-03-18T03:36:16Z"
-}

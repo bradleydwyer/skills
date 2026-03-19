@@ -1,7 +1,0 @@
-{
-  "op": "add",
-  "skill": "sloppy",
-  "source": "adopted",
-  "description": "Detect and fix AI prose tells (slop) in text. Two-layer system: fast regex-based detection via the sloppy CLI, plus LLM contextual review and rewriting. Use when reviewing, editing, checking, or cleaning up prose that needs to read as human-written. Also use when generating content that should avoid AI patterns, or building a quality gate for AI-generated text.",
-  "ts": "2026-03-18T03:36:16Z"
-}

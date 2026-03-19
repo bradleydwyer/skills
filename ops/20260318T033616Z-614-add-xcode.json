@@ -1,7 +1,0 @@
-{
-  "op": "add",
-  "skill": "xcode",
-  "source": "bradleydwyer/skills",
-  "description": "Interact with Xcode via Apple's MCP bridge for building, testing, previewing, and debugging Apple platform projects. Use this skill whenever the user is working on Swift or SwiftUI code, building iOS/macOS/watchOS/tvOS/visionOS apps, wants to run or fix builds, run tests, render SwiftUI previews, search Apple documentation or WWDC transcripts, check Xcode diagnostics, or do any development that involves an Xcode project (.xcodeproj, .xcworkspace, or Package.swift). Also use when the user mentions Xcode by name, asks about build errors or warnings, wants to evaluate Swift snippets, or is iterating on UI with SwiftUI previews. Trigger even if the user doesn't explicitly mention Xcode — if they're working on Apple platform code and could benefit from Xcode integration, this skill applies.",
-  "ts": "2026-03-18T03:36:16Z"
-}

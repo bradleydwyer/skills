@@ -1,7 +1,0 @@
-{
-  "op": "add",
-  "skill": "tart",
-  "source": "bradleydwyer/skills",
-  "description": "Manage macOS and Linux virtual machines using the Tart CLI (tart.run). Use this skill whenever the user wants to create, run, stop, configure, or manage VMs on Apple Silicon — including pulling pre-built images, SSH into VMs, executing commands inside guests, sharing directories, importing/exporting VMs, or adjusting CPU/memory/disk. Trigger when the user mentions Tart, VMs, virtual machines, guest OS, or wants to spin up macOS or Linux environments locally. Also trigger when the user is setting up CI runners, testing across OS versions, or needs an isolated macOS/Linux environment.",
-  "ts": "2026-03-18T08:31:53Z"
-}

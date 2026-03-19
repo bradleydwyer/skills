@@ -1,7 +1,0 @@
-{
-  "op": "add",
-  "skill": "console2svg",
-  "source": "bradleydwyer/skills",
-  "description": "Convert terminal output into SVG images using console2svg. Use this skill whenever the user wants to capture CLI output as an SVG, create animated terminal recordings, generate terminal screenshots for documentation or READMEs, or produce presentation-ready images of command output. Trigger when the user mentions console2svg, terminal SVG, terminal screenshot, animated terminal recording, or wants to visualize command output as an image. Also trigger when the user is preparing documentation assets, README visuals, or slide content that involves showing terminal sessions.",
-  "ts": "2026-03-18T09:32:56Z"
-}

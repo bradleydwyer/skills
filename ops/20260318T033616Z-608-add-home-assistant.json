@@ -1,7 +1,0 @@
-{
-  "op": "add",
-  "skill": "home-assistant",
-  "source": "adopted",
-  "description": "Manage Home Assistant via ha-mcp (API) and SSH (config-level). Covers automations, dashboards, entity registry, and log analysis.",
-  "ts": "2026-03-18T03:36:16Z"
-}
