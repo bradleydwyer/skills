@@ -62,7 +62,7 @@ codex exec --sandbox read-only \
 
 # Pull context from a GitHub PR
 codex exec --sandbox read-only \
-  "Read the comments on PR #342 in my-pocket-money/pocket. Summarise the review feedback."
+  "Read the comments on PR #342 in myorg/myrepo. Summarise the review feedback."
 ```
 
 These are **read-only retrieval tasks** — codex should not post messages, create tickets, or write to these systems when invoked from Claude.
